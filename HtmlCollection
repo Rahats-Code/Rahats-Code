@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>All IN ONE TAGS</title>
+</head>
+<body>
+    
+    <pre><h3>Basic</h3>
+    !DOCTYPE html
+    html
+    head
+    title
+    body
+    </pre>
+
+
+    <pre><h3>ALL IN ONE</h3>
+        heading tags: h1, h2, h3, h4, h4, h5, h6
+
+        Paragraph Tag: p
+
+        Line Break Tag: br, hr (hr contents a black border)
+
+        Content Centering Tag: center 
+
+        Formet Preservation Tag: pre
+
+        Italic Tag: i
+
+        Underline Tag: u
+
+        Attributes: title, align
+
+    </pre>
+    
+</body>
+</html>
