@@ -18,23 +18,61 @@
 
 
     <pre><h3>ALL IN ONE</h3>
-        heading tags: h1, h2, h3, h4, h4, h5, h6
 
-        Paragraph Tag: p
+        <b>heading tags:</b> h1, h2, h3, h4, h4, h5, h6
 
-        Line Break Tag: br, hr (hr contents a black border)
+        <b>Paragraph Tag:</b> p
 
-        Content Centering Tag: center 
+        <b>Line Break Tag:</b> br, hr (hr contents a black border)
 
-        Formet Preservation Tag: pre
+        <b>Usual Tags:</b> Caption
 
-        Italic Tag: i
+        <b>Content Centering Tag:</b> center 
 
-        Underline Tag: u
+        <b>Formet Preservation Tag:</b> pre
 
-        Attributes: title, align
+        <b>Italic Tag:</b> i
 
+        <b>Underline Tag:</b> u
+
+        <b>Attributes:</b> title, align, style, lang, dir, border
+
+        <b>Formatting:</b> b(bold), i(Italic), u(Underline), strike, tt, sup(SuperScript), del, big, small, em, mark, strong, dfn, q, code, address
+
+        <b>Commenting:</b> <!-- -->
+
+        <b>Meta Data Tag:</b> meta
+
+        <b>Meta Data Attributes:</b> keywords, description, author details, revised
+
+        <b>Meta Refresh:</b> http-equiv="refresh" content="time in second here"
+
+        <b>Meta Character Set:</b> charset="UTF-8" (way-1) * http-equiv="Content-Type" content="text/html;charset=UTF-8" (way-2)
+
+        <b>Meta Cookie:</b> http-equiv="cookie" content="userid=xyz;expires=wednesday, 09-Aug-15"
+
+        <b>Meta Redirect:</b> http-equiv="refresh" content="time in second here;url=http://yourwebsite.com"
+
+        <b>Image:</b> img src="Folder Link or Images Link Here" alt="Image Purpose or Image Name Here"
+
+        <b>Table:</b> Row=tr, Column=td, Header=th
+        
+        <b>Table Tags:</b> Thead, Tfooter
+
+        <b>Table Attributes:</b> Border, Cellpadding, Cellspacing, Rowspan, Colspan, Border-color, Background-Color, Width, height
+
+        <b>List:</b> ul, ol, li, dl
+
+        <b>Unorder List Attributes:</b> type= square, circle, tri-angle
+
+        <b>Order List Attributes:</b> type= 1, I, i, a, A * start= starting number
+
+        <b>Difination List Tags:</b> dl, dt, dd 
+
+        <b>Link:</b> <a href="websitelink">Link Content</a>
+
+        <b>Link New Tab Attribute:</b> target="_blank or new" 
+                                 
     </pre>
-    
 </body>
 </html>
